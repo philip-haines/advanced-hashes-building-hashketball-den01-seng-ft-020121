@@ -1,5 +1,5 @@
 # Write your code here!
-reqire 'pry'
+require 'pry'
 
 def game_hash
   game_hash = {
