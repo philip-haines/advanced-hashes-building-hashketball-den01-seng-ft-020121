@@ -7,11 +7,7 @@ def game_hash
       :team_name => {},
       :colors => {},
       :players => [
-        :alan_anderson => {:player_name => "Alan Anderson"},
-        "Reggie Evans" => {},
-        "Brook Lopen" => {},
-        "Mason Plumlee" => {},
-        "Jason Terry" => {}
+        {:player_name => "Alan Anderson"}
         ]
     },
     :away => {
@@ -20,6 +16,6 @@ def game_hash
       :players => []
     }
   }
-  binding.pry
+  # binding.pry
   game_hash
 end
