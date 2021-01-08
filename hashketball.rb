@@ -5,7 +5,7 @@ def game_hash
       :team_name => {},
       :colors => {},
       :players => [
-        :alan_anderson => {:player_name => "Alan Anderson"}
+        :alan_anderson => {:player_name => "Alan Anderson"},
         "Reggie Evans" => {},
         "Brook Lopen" => {},
         "Mason Plumlee" => {},
