@@ -13,7 +13,6 @@ def game_hash
         "Mason Plumlee" => {},
         "Jason Terry" => {}
         ]
-        binding.pry
     },
     :away => {
       :team_name => {},
@@ -21,5 +20,6 @@ def game_hash
       :players => []
     }
   }
+  binding.pry
   game_hash
 end
