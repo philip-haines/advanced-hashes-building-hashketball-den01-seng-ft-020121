@@ -18,6 +18,7 @@ def game_hash
             :blocks => 
             :slam_dunks =>
           }, 
+          
           {
             :player_name => "Reggie Evans",
             :number => 
@@ -29,8 +30,21 @@ def game_hash
             :blocks => 
             :slam_dunks =>
           },
+          
           {
             :player_name => "Brook Lopez",
+            :number => 
+            :shoe => 
+            :points =>
+            :rebounds => 
+            :assists => 
+            :steals => 
+            :blocks => 
+            :slam_dunks =>
+          },
+          
+          {
+            :player_name => "Mason Plumlee",
             :number => 
             :shoe => 
             :points =>
