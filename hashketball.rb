@@ -1,4 +1,6 @@
 # Write your code here!
+reqire 'pry'
+
 def game_hash
   game_hash = {
     :home => {
@@ -11,6 +13,7 @@ def game_hash
         "Mason Plumlee" => {},
         "Jason Terry" => {}
         ]
+        binding.pry
     },
     :away => {
       :team_name => {},
